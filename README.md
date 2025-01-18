@@ -1,6 +1,6 @@
 # calculator-with-password-checker
 
-This is a simple calculator application with a password protection feature that ensures the user enters a password before the calculator is accessible.
+This is a simple calculator application with a password protection feature.
 
 **Features**
 
